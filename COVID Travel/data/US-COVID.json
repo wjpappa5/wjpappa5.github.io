@@ -1,0 +1,470 @@
+{
+    "Alabama ": {
+        "State": "Alabama ",
+        "Status": "Throughout the winter, Gov. Kay Ivey, a Republican, has continued extending the state\u2019s Safer at Home order and mask mandate. In the most recent extension, she lifted some restrictions on nursing homes, senior citizen centers, bars and restaurants, but kept the mask mandate in place.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://governor.alabama.gov/assets/2021/03/GKI-Health-Order-Update-04.09.21-Vertical.pdf",
+        "Latitude": "32.3182314",
+        "Longitude": "-86.902298"
+    },
+    "Alaska ": {
+        "State": "Alaska ",
+        "Status": "In February, the state's emergency declaration expired, ending the few mandated restrictions. Gov. Mike Dunleavy, a Republican, replaced the mandates with advisories, but questions remain about how the end of the declaration will affect the state's authority to respond to the crisis.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://covid19.alaska.gov/health-mandates/ ",
+        "Latitude": "64.2008413",
+        "Longitude": "-149.4936733"
+    },
+    "Arizona ": {
+        "State": "Arizona ",
+        "Status": "Masks are mandated for most businesses, and bars that do not operate as restaurants are closed statewide. In March, Gov. Doug Ducey, a Republican, lifted occupancy limits on many businesses.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks sometimes required",
+        "URL": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home",
+        "Latitude": "34.0489281",
+        "Longitude": "-111.0937311"
+    },
+    "Arkansas ": {
+        "State": "Arkansas ",
+        "Status": "Gov. Asa Hutchinson, a Republican, opted for a targeted shutdown of certain business sectors rather than a stay-at-home order. In late February, the state turned almost all its coronavirus business directives into guidances, reopening the state further. Rules about mask use remained in place.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks sometimes required",
+        "URL": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus ",
+        "Latitude": "35.20105",
+        "Longitude": "-91.8318334"
+    },
+    "California ": {
+        "State": "California ",
+        "Status": "In December, Gov. Gavin Newsom, a Democrat, announced that he would institute stay-at-home orders in any region where the available beds in intensive care units dropped below 15 percent. Through the holiday season and most of January, most of the state remained under lockdown, until Mr. Newsom lifted the order on Jan. 25. The state then returned to its previous county-based system. Through February, most of the state remained in the most restrictive tier, and in early March more counties, including some in the Bay Area, loosened restrictions.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://covid19.ca.gov/safer-economy/",
+        "Latitude": "36.778261",
+        "Longitude": "-119.4179324"
+    },
+    "Colorado ": {
+        "State": "Colorado ",
+        "Status": "Gov. Jared Polis, a Democrat, established a \u201cdial\u201d system for shutting down and reopening the state\u2019s various counties and regions, which he updated in February to allow counties to move more quickly between each risk level. By early February, all counties were at or below the \"orange\" level, the fourth of six tiers, allowing them to reopen indoor dining and allow small gatherings.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://covid19.colorado.gov/data/covid-19-dial/covid-19-dial-dashboard",
+        "Latitude": "39.5500507",
+        "Longitude": "-105.7820674"
+    },
+    "Connecticut ": {
+        "State": "Connecticut ",
+        "Status": "In March, Gov. Ned Lamont, a Democrat, announced that he would loosen some restrictions including the elimination of capacity limits in many sectors. Bars that only serve beverages have remained closed statewide since the start of the shutdowns, and were set to remain closed despite the changes. ",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://portal.ct.gov/Coronavirus",
+        "Latitude": "41.6032207",
+        "Longitude": "-73.087749"
+    },
+    "Delaware ": {
+        "State": "Delaware ",
+        "Status": "In February, Gov. John Carney, a Democrat, announced changes to occupancy restrictions, allowing restaurants, retail stores, gyms and other businesses to serve up to 50 percent of their stated fire capacity. Later in the month, in response to declining cases and increasing vaccinations, he relaxed limits on public gatherings.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.delaware.gov/",
+        "Latitude": "38.9108325",
+        "Longitude": "-75.52766989999999"
+    },
+    "Florida ": {
+        "State": "Florida ",
+        "Status": "Gov. Ron DeSantis, a Republican, has limited the rights of local governments to enforce restrictions tighter than the state's, and has touted his role in keeping businesses such as bars and restaurants open.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://floridahealthcovid19.gov/news/",
+        "Latitude": "27.6648274",
+        "Longitude": "-81.5157535"
+    },
+    "Georgia ": {
+        "State": "Georgia ",
+        "Status": "Gov. Brian Kemp, a Republican, was one of the first governors to reopen his state. He also pushed back on local mask mandates but has since backtracked, allowing places like Atlanta to implement them. Mr. Kemp has continued extending the state\u2019s public health emergency and a shelter-in-place order for some medically vulnerable populations.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://dph.georgia.gov/health-topics/coronavirus-covid-19",
+        "Latitude": "32.1656221",
+        "Longitude": "-82.9000751"
+    },
+    "Hawaii ": {
+        "State": "Hawaii ",
+        "Status": "Each of Hawaii's major island has varying restrictions. Most recently, Oahu, home of the capitol Honolulu, loosened its business restrictions, allowing many to increase capacity, but nightclubs remain closed in many areas.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://hawaiicovid19.com/",
+        "Latitude": "19.8967662",
+        "Longitude": "-155.5827818"
+    },
+    "Idaho ": {
+        "State": "Idaho ",
+        "Status": "Last fall, as cases began to climb, Gov. Brad Little, a Republican, reimposed some restrictions. In early February, as the state moved along in its vaccination plan and saw hospitalizations decline, Mr. Little lifted some restrictions. Nightclubs, which had previously been operating as bars, were allowed to reopen, though patrons must remain seated.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://rebound.idaho.gov/",
+        "Latitude": "44.0682019",
+        "Longitude": "-114.7420408"
+    },
+    "Illinois ": {
+        "State": "Illinois ",
+        "Status": "Gov. J.B. Pritzker, a Democrat, has broken the state into regions, implementing mitigation efforts in areas where the virus is spreading the quickest. In January, the mitigation measures were gradually lifted across every region, and in early February mitigation measures were lifted in the final region, reopening bars, restaurants and cultural institutions statewide, with capacity limits and social-distancing measures.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://dceocovid19resources.com/restore-illinois",
+        "Latitude": "40.6331249",
+        "Longitude": "-89.3985283"
+    },
+    "Indiana ": {
+        "State": "Indiana ",
+        "Status": "In late January, Gov. Eric Holcomb, a Republican, modified the state\u2019s county-based system of tiered restrictions. Gatherings for counties in the red tier were limited to 25 percent of a facility's capacity. The previous gathering limit of 25 individuals total for counties in the red tier remains \"strongly recommended.\" The current restrictions have been extended into March.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://backontrack.in.gov/",
+        "Latitude": "40.2671941",
+        "Longitude": "-86.1349019"
+    },
+    "Iowa ": {
+        "State": "Iowa ",
+        "Status": "Gov. Kim Reynolds, a Republican, removed a statewide mask mandate, along with certain gathering restrictions, in February.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://governor.iowa.gov/press-release/gov-reynolds-signs-new-proclamation-continuing-state-public-health-emergency-10",
+        "Latitude": "41.8780025",
+        "Longitude": "-93.097702"
+    },
+    "Kansas ": {
+        "State": "Kansas ",
+        "Status": "After reopening began May 4, Gov. Laura Kelly, a Democrat, faced backlash from Republicans in the State Legislature who wanted the process to move more quickly. She vetoed a measure seeking to curb her emergency powers and allowed reopenings at the discretion of individual counties. Ms. Kelly issued a statewide mask mandate in July, but counties are allowed to opt out of the order. Ms. Kelly issued a new mask order in November that gave counties one week to draft their own order, but counties could still opt out under state law.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks sometimes required",
+        "URL": "https://kdem.maps.arcgis.com/apps/opsdashboard/index.html#/24011ba92bdf400d975228148aea547b",
+        "Latitude": "39.011902",
+        "Longitude": "-98.4842465"
+    },
+    "Kentucky ": {
+        "State": "Kentucky ",
+        "Status": "In early March, Gov. Andy Beshear, a Democrat, relaxed occupancy limits for most businesses to 60 percent of capacity. A statewide mask order has been extended through March.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://govstatus.egov.com/ky-healthy-at-work",
+        "Latitude": "37.8393332",
+        "Longitude": "-84.2700179"
+    },
+    "Louisiana ": {
+        "State": "Louisiana ",
+        "Status": "Gov. John Bel Edwards, a Democrat, issued a new order in March moving the state to Phase 3 of reopening. Bars are allowed to reopen for indoor service in all parishes. Many businesses, including restaurants, shopping malls and salons, may increase occupancy to 75 percent of capacity.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://gov.louisiana.gov/coronavirus/",
+        "Latitude": "30.9842977",
+        "Longitude": "-91.96233269999999"
+    },
+    "Maine ": {
+        "State": "Maine ",
+        "Status": "Gov. Janet Mills, a Democrat, unveiled a new reopening plan in March which would gradually relax certain travel, gathering and occupancy restrictions ahead of summer tourism season. Starting March 26, indoor gathering limits may increase to 50 percent of capacity, while outdoor gatherings limits may increase to 75 percent of capacity. Gathering limits will be relaxed again in May. The plan also set March 26 as the reopening date for bars.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.maine.gov/covid19/",
+        "Latitude": "45.253783",
+        "Longitude": "-69.4454689"
+    },
+    "Maryland ": {
+        "State": "Maryland ",
+        "Status": "Gov. Larry Hogan, a Republican, issued a number of restrictions in November after the state\u2019s positivity rate rose above 5 percent for the first time since June. An order requiring businesses to close by 10 p.m. each night was lifted Feb. 1.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://governor.maryland.gov/recovery/",
+        "Latitude": "39.0457549",
+        "Longitude": "-76.64127119999999"
+    },
+    "Massachusetts ": {
+        "State": "Massachusetts ",
+        "Status": "In late February, Gov. Charlie Baker, a Republican, announced the state would move to Step 2 of Phase 3 beginning March 1, allowing indoor performance venues and certain indoor recreational facilities to reopen. Mr. Baker said that the state will move to Step 1 of Phase 4, allowing large stadiums and arenas to open at 12 percent of capacity, on March 22.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.mass.gov/info-details/reopening-massachusetts",
+        "Latitude": "42.4072107",
+        "Longitude": "-71.3824374"
+    },
+    "Michigan ": {
+        "State": "Michigan ",
+        "Status": "The State Health Department issued a new order effective March 5 easing restrictions on occupancy limits and gatherings. Restaurants, bars, retail stores and indoor entertainment venues may operate at 50 percent of capacity. Non-residential gatherings may expand to 25 people indoors or 300 outdoors, while residential gatherings may increase to 15 people indoors or 50 outdoors.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.michigan.gov/coronavirus/",
+        "Latitude": "44.3148443",
+        "Longitude": "-85.60236429999999"
+    },
+    "Minnesota ": {
+        "State": "Minnesota ",
+        "Status": "Gov. Tim Walz, a Democrat, announced that indoor dining at bars and restaurants would be allowed to resume in January after being closed for nearly six weeks to combat a surge in cases. Other indoor venues including movie theaters and bowling alleys were allowed to reopen at 25 percent of capacity. Mr. Walz later eased restrictions on indoor gatherings at venues, and allowed restaurants to stay open until 11 p.m.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://staysafe.mn.gov/",
+        "Latitude": "46.729553",
+        "Longitude": "-94.6858998"
+    },
+    "Mississippi ": {
+        "State": "Mississippi ",
+        "Status": "Gov. Tate Reeves, a Republican, removed nearly all restrictions, including county-based mask orders that applied to most of the state, in early March. Remaining restrictions include a mask requirement at K-12 schools and a 50 percent occupancy limit at indoor arenas.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://governorreeves.ms.gov/covid-19/",
+        "Latitude": "32.3546679",
+        "Longitude": "-89.3985283"
+    },
+    "Missouri ": {
+        "State": "Missouri ",
+        "Status": "Gov. Mike Parson, a Republican, reopened all businesses in early May, with social distancing rules, and later lifted all restrictions. In September, Mr. Parson tested positive for the coronavirus.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://showmestrong.mo.gov/",
+        "Latitude": "37.9642529",
+        "Longitude": "-91.8318334"
+    },
+    "Montana ": {
+        "State": "Montana ",
+        "Status": "Gov. Greg Gianforte, a Republican, rolled back restrictions put in place by former Gov. Steve Bullock, a Democrat. Under an order effective Jan. 15, restaurants and bars are no longer required to close by 10 p.m. each night, and there are no longer limits on business capacity or gathering sizes. Mr. Gianforte allowed a statewide mask mandate to expire on Feb. 12.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt#9247810301-information-for-employers",
+        "Latitude": "46.8796822",
+        "Longitude": "-110.3625658"
+    },
+    "Nebraska ": {
+        "State": "Nebraska ",
+        "Status": "Gov. Pete Ricketts, a Republican, announced that the state would move to the \"green\" phase on the state's color-coded restriction system in late January, removing the few remaining capacity limits on businesses.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "http://dhhs.ne.gov/Pages/COVID-19-Directed-Health-Measures.aspx",
+        "Latitude": "41.4925374",
+        "Longitude": "-99.9018131"
+    },
+    "Nevada ": {
+        "State": "Nevada ",
+        "Status": "Gov. Steve Sisolak, a Democrat, announced a \"statewide pause\" in late November, placing stricter capacity limits on many businesses and tightening rules on gatherings and mask usage. The pause expired in mid-February, loosening capacity limits in most business sectors.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://nvhealthresponse.nv.gov/",
+        "Latitude": "38.8026097",
+        "Longitude": "-116.419389"
+    },
+    "New Hampshire ": {
+        "State": "New Hampshire ",
+        "Status": "Gov. Chris Sununu, a Republican, has reopened most businesses, but in November he issued a mask mandate and travel guidance requiring 14-day quarantines for anyone entering the state from high-risk areas. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.covidguidance.nh.gov/",
+        "Latitude": "43.1938516",
+        "Longitude": "-71.5723953"
+    },
+    "New Jersey ": {
+        "State": "New Jersey ",
+        "Status": "In February, Gov. Phil Murphy, a Democrat, loosened capacity limits on indoor businesses including restaurants, personal care services, gyms and entertainment businesses. Later in the month, he announced a higher occupancy limit for houses of worship and that in March, large sports and entertainment venues could welcome spectators again.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://covid19.nj.gov/",
+        "Latitude": "40.0583238",
+        "Longitude": "-74.4056612"
+    },
+    "New Mexico ": {
+        "State": "New Mexico ",
+        "Status": "Gov. Michelle Lujan Grisham, a Democrat, introduced a tiered, county-by-county system for imposing restrictions in early December. In late February, Ms. Lujan Grisham added a new, least-restrictive \"turquoise\" tier, which allows for all categories of businesses to reopen. As of Feb. 24, four counties were in the least-restrictive tier. Certain businesses that previously had been closed in all tiers, including bars, may reopen as soon as the county in which they are located progresses to the green tier.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://cv.nmhealth.org/",
+        "Latitude": "34.5199402",
+        "Longitude": "-105.8700901"
+    },
+    "New York ": {
+        "State": "New York ",
+        "Status": "Gov. Andrew M. Cuomo, a Democrat, announced in February a number of reopening dates for long-closed businesses, including major stadiums and arenas, movie theaters in New York City, pool halls, family entertainment centers and outdoor amusement parks. Indoor dining was allowed to resume in New York City on Feb. 12. Restrictions on residential and social gatherings will be eased beginning March 22, as will limits on events at more sports, arts and entertainment venues beginning April 2.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.health.ny.gov/home",
+        "Latitude": "40.7127753",
+        "Longitude": "-74.0059728"
+    },
+    "North Carolina ": {
+        "State": "North Carolina ",
+        "Status": "Gov. Roy Cooper, a Democrat, lifted a statewide a stay-at-home order, which required North Carolinians to stay home from 10 p.m. to 5 a.m., on Feb. 26. Bars, which had been closed for indoor service for nearly a year, were allowed to reopen at 30 percent of capacity. Gathering limits were also relaxed, allowing groups of 25 people indoors and 50 people outdoors. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.nc.gov/covid19",
+        "Latitude": "35.7595731",
+        "Longitude": "-79.01929969999999"
+    },
+    "North Dakota ": {
+        "State": "North Dakota ",
+        "Status": "Gov. Doug Burgum, a Republican, allowed a statewide mask mandate put in place as cases surged in November to expire in mid-January. Business restrictions limiting capacity also became recommendations rather than requirements. Recommended capacity limits allow more people inside businesses as of Jan. 29, after Mr. Burgum announced that the statewide risk level would be downgraded to \"low\" on the state's tiered system.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://ndresponse.gov/covid-19-resources/covid-19-business-and-employer-resources/nd-smart-restart/nd-smart-restart-protocols",
+        "Latitude": "47.5514926",
+        "Longitude": "-101.0020119"
+    },
+    "Ohio ": {
+        "State": "Ohio ",
+        "Status": "Gov. Mike DeWine, a Republican, allowed sporting and entertainment events to reopen at 25 percent of capacity indoors and 30 percent of capacity outdoors, starting March 2. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home",
+        "Latitude": "40.4172871",
+        "Longitude": "-82.90712300000001"
+    },
+    "Oklahoma ": {
+        "State": "Oklahoma ",
+        "Status": "In mid-November, Gov. Kevin Stitt, a Republican required bars and restaurants to close at 11 p.m. and encouraged people to social distance and to wear a mask. In mid-December, Mr. Stitt limited public gatherings and attendance at indoor sporting events to 50 percent of capacity.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://coronavirus.health.ok.gov/",
+        "Latitude": "35.4675602",
+        "Longitude": "-97.5164276"
+    },
+    "Oregon ": {
+        "State": "Oregon ",
+        "Status": "Gov. Kate Brown, a Democrat, allowed schools that have returned to in-person classes to resume outdoor contact sports. Ms. Brown has relaxed restrictions in most counties with indoor dining, indoor entertainment venues and gyms allowed to reopen with capacity limits. ",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://govstatus.egov.com/or-covid-19/",
+        "Latitude": "43.8041334",
+        "Longitude": "-120.5542012"
+    },
+    "Pennsylvania ": {
+        "State": "Pennsylvania ",
+        "Status": "After a three-week pause, Gov. Tom Wolf, a Democrat, allowed gatherings for indoor events at 15 percent of capacity and outdoor events at 20 percent of capacity. Mr. Wolf also eliminated restrictions on travel into the state, including pre-testing and quarantining.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.governor.pa.gov/process-to-reopen-pennsylvania/",
+        "Latitude": "41.2033216",
+        "Longitude": "-77.1945247"
+    },
+    "Puerto Rico ": {
+        "State": "Puerto Rico ",
+        "Status": "Gov. Pedro Pierluisi, a member of the New Progressive Party, reduced the length of the overnight curfew to run from 12 p.m to 5 a.m, effective Feb. 8. The new rules also loosen occupancy restrictions on businesses to 50 percent of capacity, but keeps the limit on restaurants at 30 percent. The order will be effective through March 14.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
+        "Latitude": "18.220833",
+        "Longitude": "-66.590149"
+    },
+    "Rhode Island ": {
+        "State": "Rhode Island ",
+        "Status": "In mid-February, Gov. Gina Raimondo, a Democrat, allowed bars to reopen and houses of worship to increase occupancy to 40 percent of capacity.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://health.ri.gov/covid/",
+        "Latitude": "41.5800945",
+        "Longitude": "-71.4774291"
+    },
+    "South Carolina ": {
+        "State": "South Carolina ",
+        "Status": "Gov. Henry McMaster, a Republican, lifted the restrictions on sale of alcohol after 11 pm and the 250 people limit on social gatherings, starting March 1. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks sometimes required",
+        "URL": "https://accelerate.sc.gov/",
+        "Latitude": "33.836081",
+        "Longitude": "-81.1637245"
+    },
+    "South Dakota ": {
+        "State": "South Dakota ",
+        "Status": "Gov. Kristi Noem, a Republican, announced that she will not order a lockdown or a mask mandate such as those in other states. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://covid.sd.gov/",
+        "Latitude": "43.9695148",
+        "Longitude": "-99.9018131"
+    },
+    "Tennessee ": {
+        "State": "Tennessee ",
+        "Status": "In late January, Gov. Bill Lee, a Republican, removed previous gathering limits and restrictions on who can attend school sports effective Feb. 1.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks not required",
+        "URL": "https://covid19.tn.gov/",
+        "Latitude": "35.5174913",
+        "Longitude": "-86.5804473"
+    },
+    "Texas ": {
+        "State": "Texas ",
+        "Status": "Gov. Greg Abbott, a Republican, announced that starting March 10, the mask mandate and capacity limits on all businesses will be lifted. Mr. Abbott said that this order will ensure that \u201call businesses and families in Texas have the freedom to determine their own destiny.\u201d",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.dshs.state.tx.us/coronavirus/",
+        "Latitude": "31.9685988",
+        "Longitude": "-99.9018131"
+    },
+    "Utah ": {
+        "State": "Utah ",
+        "Status": "In late Februrary, Gov. Spencer Cox, a Republican, lifted the capacity limit at bars in counties with low levels of transmission. The state Health Department also extended its mask order through March 25.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.utah.gov/utah-health-guidance-levels/",
+        "Latitude": "39.3209801",
+        "Longitude": "-111.0937311"
+    },
+    "Vermont ": {
+        "State": "Vermont ",
+        "Status": "Gov. Phil Scott, a Republican, extended through March 15 the closure of restaurants at 10 p.m. and the closure of bars. People who have been fully vaccinated are now allowed to gather with members of another household. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.healthvermont.gov/covid-19",
+        "Latitude": "44.5588028",
+        "Longitude": "-72.57784149999999"
+    },
+    "Virginia ": {
+        "State": "Virginia ",
+        "Status": "Gov. Ralph S. Northam, a Democrat, lifted the night curfew, relaxed limits on outdoor social gatherings to 25 people, and attendance caps for entertainment venues to 1,000 people, starting March 1. Bars and restaurants that sell alcohol may stay open until midnight. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.vdh.virginia.gov/coronavirus/",
+        "Latitude": "37.4315734",
+        "Longitude": "-78.6568942"
+    },
+    "Washington ": {
+        "State": "Washington ",
+        "Status": "In mid-February, Gov. Jay Inslee, a Democrat, allowed all counties to reopen gyms, indoor dining and entertainment venues at 25 percent of capacity and allowed indoor social gatherings up to five people. Capacity limits in retail stores, salons and religious services remain unchanged for all counties. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.wa.gov/",
+        "Latitude": "47.7510741",
+        "Longitude": "-120.7401385"
+    },
+    "Washington, D.C. ": {
+        "State": "Washington, D.C. ",
+        "Status": "Washington, D.C., has relied on an aggressive testing program and a mask mandate to try to keep the virus in check. Ahead of Christmas, Mayor Muriel Bowser placed a month-long pause on a number of activities, including indoor dining, museums, and libraries. In late January, she lifted the pause but maintained some restrictions, such as keeping libraries closed except for drop-offs and pick-ups.",
+        "Business Update": "Some businesses closed",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://coronavirus.dc.gov/phasetwo ",
+        "Latitude": "38.9071923",
+        "Longitude": "-77.0368707"
+    },
+    "West Virginia ": {
+        "State": "West Virginia ",
+        "Status": "In March, Gov. Jim Justice, a Republican, lifted occupancy restrictions for restaurants, bars, gyms, museuems and retail stores, and allowed public gatherings of up to 100 people. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+        "Latitude": "38.5976262",
+        "Longitude": "-80.4549026"
+    },
+    "Wisconsin ": {
+        "State": "Wisconsin ",
+        "Status": "Gov. Tony Evers, a Democrat, signed an executive order requiring face coverings in public places one hour after the state Assembly voted to repeal the same mandate. The order was set to be effective through March 20.",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks mandatory",
+        "URL": "https://www.dhs.wisconsin.gov/covid-19/index.htm",
+        "Latitude": "43.7844397",
+        "Longitude": "-88.7878678"
+    },
+    "Wyoming ": {
+        "State": "Wyoming ",
+        "Status": "Gov. Mark Gordon, a Republican, lifted all restrictions on personal care services, and raised the gathering limit to 1,000 indoors and 2,000 outdoors, starting March 1. Mr. Gordon also relaxed restrictions on restaurants and theaters. ",
+        "Business Update": "Businesses mostly open",
+        "Mask Update": "Masks sometimes required",
+        "URL": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
+        "Latitude": "43.0759678",
+        "Longitude": "-107.2902839"
+    }
+}
